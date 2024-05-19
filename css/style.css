@@ -1,0 +1,21 @@
+h1{
+    font-size: 80px;
+    font-weight: bold;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.btn{
+    background-color: blue;
+    color: white;
+    transition: 0.1s;
+    padding: 0 90px;
+    margin-bottom: 30px;
+}
+
+
+p{
+    font-size: 35px;
+    color: black;
+    margin-bottom: 30px;
+}
